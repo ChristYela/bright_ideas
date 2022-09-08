@@ -1,3 +1,3 @@
 ﻿# bright_ideas
 Bright Ideas Project 
-Personal Porject for Coding Dojo LatAm
+Personal Project for Coding Dojo LatAm
